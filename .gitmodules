@@ -1,0 +1,11 @@
+[submodule "src/github.com/bronze1man/kmg"]
+      path = src/github.com/bronze1man/kmg
+      url = git://github.com/bronze1man/kmg
+
+[submodule "src/github.com/howeyc/fsnotify"]
+      path = src/github.com/howeyc/fsnotify
+      url = git://github.com/howeyc/fsnotify
+
+[submodule "src/github.com/tealeg/xlsx"]
+    path = src/github.com/tealeg/xlsx
+    url = git://github.com/tealeg/xlsx
