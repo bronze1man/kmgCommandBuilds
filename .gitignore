@@ -8,3 +8,4 @@
 .hg
 *.swp
 .bzr
+/builds
