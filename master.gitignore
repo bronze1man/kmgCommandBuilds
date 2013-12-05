@@ -1,7 +1,6 @@
 .idea
 *.iml
 /out
-*.exe
 /pkg
 /bin
 *.exe~
