@@ -1,0 +1,11 @@
+.idea
+*.iml
+/out
+*.exe
+/pkg
+/bin
+*.exe~
+.hg
+*.swp
+.bzr
+/builds
